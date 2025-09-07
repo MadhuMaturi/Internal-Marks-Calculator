@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 class Internal:
     def assignment(self):
         a=int(input("Enter assignment-1 marks(out of 10): "))
@@ -37,4 +35,5 @@ for i in range(1,n+1):
     print()
 
     
+
     
